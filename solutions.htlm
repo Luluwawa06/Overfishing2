@@ -1,0 +1,51 @@
+<!doctype htlm>
+<htlm>
+	<head>
+		<title>Over fishing</title>
+		<link href="style.css" rel="stylesheet" type="text/css" />
+		<style>
+			body{background-image:url(https://uploads-ssl.webflow.com/5d82c583060d001741dd3714/6095c324cd2fc95f49673b03_overfishing.png) ;
+			color:black;}
+			.subtitle3{
+				padding: 1% 0% 0% 12%;
+				font-size: 3Opx;}
+			.header{
+				margin:0;
+				font-size: 50px;
+			}
+			.subtitle2{
+				padding: 0% 18% 0% 0%;
+			}
+
+		</style>
+	</head>
+	<body>
+		<header>
+			<nav>
+				<h1>Overfishing</h1>
+				
+				<ul>
+					<li><a href="causesp.htlm">Causes</a></li>
+					<li><a href="mainp.htlm">Effects</a></li>
+					<li>Solution</li>
+					<li class="donate">Make a donate to WWF <a class="here" href="https://support.worldwildlife.org/site/SPageServer?pagename=main_onetime&s_src=AWE2209OQ18336A01562RX&s_subsrc=topnav&_ga=2.188232431.653272556.1653671425-2018170819.1653302706">here</a></li>
+					
+					
+				</ul>
+			</nav>
+
+		</header>
+		<h2 class="header">Solutions</h2>
+
+		<h3 class="subtitle">Our diet</h3>
+		<p class="textcause">One of the reasons of overfishing is the number of poeple that eat fish in the world. In the short term we cannot change the total population but we can change our diet by reducing the amount of fish we eaty.</p>
+
+		<h3 class="subtitle2">Regulation</h3>
+		<p class="textcause2">Regulate fishing by setting strict rules of how much, what and where fisherman need to fish. We could also help LEDC's to do that and relie less on fishing. And create new protected areas to help the endengered fishes repopulate.</p>
+
+		<h3 class="subtitle3">Advertising</h3>
+		<p class="textcause3">Another way to reduce overfishing is by advertising poeple about this issue. Which is the reason of this Web Site. By teaching people which fish by in their supermarket. And that the biodiversity of ocean and seas is in danger we could rediuce overfishing till one day maybe totally stop it.</p>
+
+
+	</body>
+</htlm>
